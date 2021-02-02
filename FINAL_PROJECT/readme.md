@@ -34,6 +34,8 @@
 
 Напишите код на python для получения нужной таблицы и укажите 5 наиболее распространённых паттернов.
 
+[**РЕШЕНИЕ**](https://nbviewer.jupyter.org/github/MariyaZamyatina/Data-Analytics-karpov/blob/main/FINAL_PROJECT/Task_1.ipynb)
+
 ## Задание 2
 
 К вам поступила информация о числе заказов за прошедшие 3 месяца с разрешением по неделям. Постройте (если это возможно) прогноз продаж на следующие 3 месяца, с учётом того, что в неделю с 2020-02-02 по 2020-02-09 была проведена массивная акция, повысившая число заказов на 7%
@@ -56,6 +58,8 @@
 |2020-04-05  |	3857         |
 
 Данные продублированы в [файле](https://stepik.org/media/attachments/lesson/426638/test2_completed.csv)
+
+[**РЕШЕНИЕ**](https://nbviewer.jupyter.org/github/MariyaZamyatina/Data-Analytics-karpov/blob/main/FINAL_PROJECT/Task_2.ipynb)
 
 ## Задание 3
 В базе данных вашей компании присутствуют следующие таблицы
@@ -115,3 +119,5 @@
 При этом в таблице должны присутствовать только значения, где в поле status стоит значение 1, и только те, где purchase_date находится в диапазоне от 01.05.2020 до 01.08.2020.
 
 База данных доступна по имени project_variant_2.
+
+[**РЕШЕНИЕ**](https://nbviewer.jupyter.org/github/MariyaZamyatina/Data-Analytics-karpov/blob/main/FINAL_PROJECT/Task_3.ipynb)
